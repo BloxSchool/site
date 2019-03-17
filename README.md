@@ -1,2 +1,2 @@
-# site
-Luablox website
+# Website
+Luablox website. www.luablox.com coming soon.
